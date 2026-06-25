@@ -1,0 +1,9 @@
+notebook
+ipykernel
+numpy
+matplotlib
+tifffile
+scikit-image
+pandas
+ipywidgets
+streamlit
